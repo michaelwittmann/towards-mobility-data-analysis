@@ -23,3 +23,7 @@ bash docker pull micwittmann/data-analysis-environment:python3.8-with-dependenci
 ```bash
 docker run -p 8888:8888 -v towards-mobility-data-analysis:/home/ubuntu/ --name jupyter-server micwittmann/data-analysis-environment:python3.8-with-dependencies jupyter notebook --allow-root --ip=0.0.0.0 --no-browser --NotebookApp.token='' --NotebookApp.password=''
 ```
+
+# Contributors
+[Michael Wittmann](https://github.com/michaelwittmann)
+[Lennart Adenaw](https://github.com/ladenaw)
