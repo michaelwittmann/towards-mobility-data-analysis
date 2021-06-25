@@ -9,13 +9,13 @@ Juypter Notebooks, are great for data analysis scripts. With this docker images,
 ```bash
 git clone https://github.com/michaelwittmann/towards-mobility-data-analysis.git
 ```
-
-## Set up your enivronment
+## Environment
+### Install dependecies
 ```bash
 poetry install
 ```
 
-## Use our prebuilt Docker image for mobility data analysis
+### Or use our prebuilt Docker image for mobility data analysis
 Pull the latetst version of our docker image
 ```
 bash docker pull micwittmann/data-analysis-environment:python3.8-with-dependencies
