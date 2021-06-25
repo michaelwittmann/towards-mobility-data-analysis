@@ -25,5 +25,5 @@ docker run -p 8888:8888 -v towards-mobility-data-analysis:/home/ubuntu/ --name j
 ```
 
 # Contributors
-[Michael Wittmann](https://github.com/michaelwittmann)
-[Lennart Adenaw](https://github.com/ladenaw)
+- [Michael Wittmann](https://github.com/michaelwittmann)
+- [Lennart Adenaw](https://github.com/ladenaw)
