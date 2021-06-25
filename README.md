@@ -1,4 +1,4 @@
-# towards-mobility-data-analysis
+# Towards Mobility Data Analysis
 This is a collection of Notebooks and examples and tutorials regarding mobility data analysis
 
 # Run our Notebooks
