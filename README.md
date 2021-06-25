@@ -11,7 +11,9 @@ git clone https://github.com/michaelwittmann/towards-mobility-data-analysis.git
 ```
 
 ## Set up your enivronment
-**ADD SOME DESCRIPTION HERE**
+```bash
+poetry install
+```
 
 ## Use our prebuilt Docker image for mobility data analysis
 Pull the latetst version of our docker image
